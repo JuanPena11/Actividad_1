@@ -1,3 +1,4 @@
+INTEGRANTE: Juan David Peña De La Torre
 ## Actividad 1
 
 Dashboard interactivo para analizar:
